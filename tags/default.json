@@ -3,13 +3,20 @@
   "tagType": "Provider",
   "tags": [
     {
-      "name": "_types_",
-      "tagType": "Folder"
+      "name": "New Folder",
+      "tagType": "Folder",
+      "tags": [
+        {
+          "name": "New Tag",
+          "tagType": "AtomicTag",
+          "value": null,
+          "valueSource": "memory"
+        }
+      ]
     },
     {
-      "name": "New Tag",
-      "tagType": "AtomicTag",
-      "valueSource": "memory"
+      "name": "_types_",
+      "tagType": "Folder"
     }
   ]
 }
