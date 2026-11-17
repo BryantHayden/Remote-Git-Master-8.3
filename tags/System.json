@@ -78,7 +78,7 @@
         {
           "name": "CurrentDateTime",
           "tagType": "AtomicTag",
-          "value": 1794957244924
+          "value": 1794957381971
         },
         {
           "name": "DeploymentMode",
@@ -92,17 +92,17 @@
             {
               "name": "Memory Utilization",
               "tagType": "AtomicTag",
-              "value": 0.35147032886743546
+              "value": 0.40518126636743546
             },
             {
               "name": "CPU Usage",
               "tagType": "AtomicTag",
-              "value": 5.718370264474624E-4
+              "value": 0.0024038461538461535
             },
             {
               "name": "Memory Usage",
               "tagType": "AtomicTag",
-              "value": 754776784
+              "value": 870120144
             },
             {
               "name": "Max Memory",
@@ -112,7 +112,7 @@
             {
               "name": "Disk Utilization",
               "tagType": "AtomicTag",
-              "value": 0.06824599176943202
+              "value": 0.06824615468480366
             },
             {
               "name": "Available Disk Space (MB)",
@@ -187,7 +187,7 @@
         {
           "name": "UptimeSeconds",
           "tagType": "AtomicTag",
-          "value": 1448
+          "value": 1585
         }
       ]
     }
